@@ -1,0 +1,8 @@
+updateEmployeeById(
+    _id: ID!,
+    firstName: String!,
+    lastName: String!,
+    dateOfBirth: String,
+    primaryLanguage: String,
+    languages: String
+): Employee

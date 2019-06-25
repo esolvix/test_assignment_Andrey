@@ -1,0 +1,1 @@
+deleteEmployeeById(_id: ID!): Employee
